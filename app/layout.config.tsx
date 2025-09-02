@@ -15,10 +15,10 @@ export const baseOptions: BaseLayoutProps = {
         <Image
           width="24"
           height="24"
-          src="/favicon.png"
+          src="/e.png"
           alt="Logo"
         />
-        Ejunz
+        Ejunz-Tomori Docs
       </>
     ),
   },
